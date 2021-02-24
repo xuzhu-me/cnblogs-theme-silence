@@ -45,4 +45,4 @@ npm run build                                                   // 编译生成
 
 ## 许可
 
-MIT © 2020 esofar
+MIT © 2020 GitHub
