@@ -22,28 +22,14 @@
 项目采用主流的前端模块化工具构建，熟悉前端开发的园友可参考下面的命令进行二次开发，定制化属于自己的独特主题风格。
 
 ```
-git clone https://github.com/esofar/cnblogs-theme-silence.git   // 克隆代码
+git clone https://github.com/xuzhu-me/cnblogs-theme-silence.git   // 克隆代码
 cd cnblogs-theme-silence                                        // 进入目录
 npm install                                                     // 安装依赖
 npm start                                                       // 本地调试
 npm run build                                                   // 编译生成
 ```
 
-## 贡献
-
-若您在使用中发现 Bug 可以直接在 Github 仓库中直接提交 [Issue](https://github.com/esofar/cnblogs-theme-silence/issues) 或者 [Pull Requests](https://github.com/esofar/cnblogs-theme-silence/pulls) 。若您希望添加新的功能模块或者在使用体验方面有什么好的想法，可以在 [Gitter](https://gitter.im/cnblogs-theme-silence/community) 中讨论。
-
-
 ## 案例
 
-您可以在 [演示案例](https://esofar.github.io/cnblogs-theme-silence/#/showcase) 中瞧瞧一些园友使用 Silence 主题的博客整体效果。
+您可以在 [演示案例](https://xuzhu-me.github.io/cnblogs-theme-silence/#/showcase) 中瞧瞧一些园友使用 Silence 主题的博客整体效果。
 
-## 赞赏
-
-如果您觉得 Silence 主题做的还不错，或者想对我微小的工作一点激励，欢迎赞赏支持。
-
-![](./_media/sponsor.png)
-
-## 许可
-
-MIT © 2020 esofar

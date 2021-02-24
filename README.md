@@ -7,7 +7,7 @@
     专 注 于 阅 读 的 博 客 园 主 题
   </p> 
 
-  [文档](https://esofar.github.io/cnblogs-theme-silence/) | [演示](https://www.cnblogs.com/esofar/)
+  [文档](https://xuzhu-me.github.io/cnblogs-theme-silence/) | [演示](https://www.cnblogs.com/beautiful-code/)
   
 
   [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/esofar/cnblogs-theme-silence?include_prereleases&style=flat-square)](https://github.com/esofar/cnblogs-theme-silence/releases)
